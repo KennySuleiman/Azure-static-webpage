@@ -22,7 +22,7 @@ The project utilizes a pure serverless cloud-native architecture:
 ## 🚀 Step-by-Step Deployment Guide
 
 ### Prerequisites
-* An active **Azure Account** (Free Tier or Paid).
+* An active **Azure Account** (Free Tier).
 * A portfolio codebase (HTML5, CSS3, modern JavaScript). A basic fallback `index.html` is provided in the repository.
 
 ### Phase 1: Storage Infrastructure Provisioning
@@ -83,5 +83,5 @@ The project utilizes a pure serverless cloud-native architecture:
 
 
 
-* An active **Azure Account** (Free Tier or Paid).
+* An active **Azure Account** (Free Tier).
 * A portfolio codebase (HTML5, CSS3, modern JavaScript). A basic fallback `index.html` is provided in the repository.
